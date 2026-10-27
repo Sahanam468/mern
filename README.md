@@ -1,2 +1,2 @@
-# mern
+# Mern Workshop
 workshop 
