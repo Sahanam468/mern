@@ -1,2 +1,2 @@
-# Mern Workshop
+# MERN Workshop
 workshop 
